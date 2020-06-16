@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "593491455754",
+    "firebase_url": "https://move-a4180.firebaseio.com",
+    "project_id": "move-a4180",
+    "storage_bucket": "move-a4180.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593491455754:android:9c8a752eefd41d0f8c14f3",
+        "android_client_info": {
+          "package_name": "com.example.move_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593491455754-pmrpn9fv3uk0m6vub7t221pmrfupbdfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4q-Ds0_6tyEgOfLQ3hCEQxbskA08Kc0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593491455754-pmrpn9fv3uk0m6vub7t221pmrfupbdfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
